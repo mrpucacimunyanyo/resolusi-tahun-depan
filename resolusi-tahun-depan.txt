@@ -1,6 +1,8 @@
 RESOLUSI TAHUN DEPAN
-- Membuat blog pribadi dengan desain UI yang keren.
+-Perdalam database
 - Membuat website betulan ( bukan HTML + CSS aja)
 - Ambil kursus bahasa Inggris
+  ^kursusnya offline di pare
 - Tamatkan javascript dan react.js
 - Kerjakan 1 project kolaborasi
+- Pelajari Adobe AE dan davinci
