@@ -1,0 +1,3 @@
+RESOLUSI TAHUN DEPAN
+- Membuat blog pribadi dengan desain UI yang keren.
+- Membuat website betulan ( bukan HTML + CSS aja)
