@@ -1,4 +1,8 @@
 yang mau dipelajari:
+- basic html
+- basic css
+- css 3
+- css layout
 - HTML 5
 - bootstrap
 - javascript
