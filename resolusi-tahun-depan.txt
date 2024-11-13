@@ -2,7 +2,8 @@ RESOLUSI TAHUN DEPAN
 -Perdalam database
 - Membuat website betulan ( bukan HTML + CSS aja)
 - Ambil kursus bahasa Inggris
-  ^kursusnya offline di pare
+  ^kursusnya online
 - Tamatkan javascript dan react.js
 - Kerjakan 1 project kolaborasi
-- Pelajari Adobe AE dan davinci
+- Belajar Photoshop
+- Belajar figma
