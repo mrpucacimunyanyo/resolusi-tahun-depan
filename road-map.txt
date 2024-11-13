@@ -1,0 +1,7 @@
+yang mau dipelajari:
+- HTML 5
+- bootstrap
+- javascript
+- dom javascript
+- js lanjutan
+- react.js
